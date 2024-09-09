@@ -14,31 +14,36 @@
 </div>
 
 <table border="1">
-<tr><td>Utterance</td><td colspan="2"> <b>LibriTTS-R</b> </td></tr>
+<tr><td>Speaker</td><td colspan="2"> <b>LibriTTS-R</b> </td></tr>
 <tr>
   <td></td>
   <td>Ground Truth</td>
   <td>Re-synthesis</td>
 </tr>
 
-<tr><td>Utterance 1</td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/1.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/2.wav"></audio></td>
+<tr><td>260</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_260_54_8.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_260_54_8.wav"></audio></td>
 </tr>
 
-<tr><td>Utterance 2</td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/1.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/2.wav"></audio></td>
+<tr><td>4446</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_4446_0_7.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_4446_0_7.wav"></audio></td>
 </tr>
 
-<tr><td>Utterance 3</td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/1.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/2.wav"></audio></td>
+<tr><td>5683</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_5683_66_52.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_5683_66_52.wav"></audio></td>
 </tr>
 
-<tr><td>Utterance 4</td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/1.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="audio_examples/ref/2.wav"></audio></td>
+<tr><td>7021</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_7021_14_2.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_7021_14_2.wav"></audio></td>
+</tr>
+
+<tr><td>8455</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_8455_40_14.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_8455_40_14.wav"></audio></td>
 </tr>
 
 </table>
