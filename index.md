@@ -13,8 +13,7 @@
 <h2>Deep Articulatory Synthesis</h2>
 </div>
 
-# English Speech Synthesis (LibriTTS-R)
-The following samples were randomly selected from the LibriTTS-R test-clean set and re-synthesized using the proposed method.
+<b>English Speech Synthesis:</b> The following samples were randomly selected from the LibriTTS-R test-clean set and re-synthesized using the proposed method.
 
 <table border="1">
 <tr><td>Speaker</td><td colspan="2"> <b>LibriTTS-R</b> </td></tr>
@@ -51,9 +50,8 @@ The following samples were randomly selected from the LibriTTS-R test-clean set 
 
 </table>
 
-
-# Mulitlingual Speech Synthesis (Mulitlingual Librispeech)
-The following samples were randomly selected from the MLS test sets and re-synthesized using the proposed method.
+<br>
+<b>Mulitlingual Speech Synthesis:</b> The following samples were randomly selected from theMulitlingual Librispeech (MLS) test sets and re-synthesized using the proposed method.
 
 <table border="1">
 <tr><td>Language</td><td colspan="2"> <b>Multilingual Librispeech</b> </td></tr>
@@ -96,6 +94,42 @@ The following samples were randomly selected from the MLS test sets and re-synth
 <tr><td>Polish</td>
   <td><audio controls style="width: 110px;" src="audio_examples/mls_pl_gt_14_12.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/mls_pl_rs_14_12.wav"></audio></td>
+</tr>
+
+</table>
+
+
+<div style="text-align: center;">
+<h2>Controllability of Deep Articulatory Synthesis</h2>
+</div>
+
+Controllability
+
+
+<div style="text-align: center;">
+<h2>Articulatory Synthesis</h2>
+</div>
+The following German speech samples were encoded using the proposed method and then re-synthesized using the articulatory synthesizer VocalTractLab.
+
+<table border="1">
+<tr><td>Speaker</td><td colspan="2"> <b>Kiel Dataset</b> </td></tr>
+<tr>
+  <td></td>
+  <td>Ground Truth</td>
+  <td>VTL (Rule-based)</td>
+  <td>TensorTract2</td>
+</tr>
+
+<tr><td></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_gt_b_0_2.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_b_0_2.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_b_0_2.wav"></audio></td>
+</tr>
+
+<tr><td></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_gt_b_0_26.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_b_0_26.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_b_0_26.wav"></audio></td>
 </tr>
 
 </table>
