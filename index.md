@@ -154,25 +154,25 @@
 <tr>
   <td>Plosives</td>
   <td>/a, b, a, d, a, g, a /</td>
-<audio controls style="width: 110px;" src="audio_examples/control_demo_abadaga.wav"></audio>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_abadaga.wav"></audio></td>
 </tr>
 
 <tr>
   <td>Fricatives</td>
   <td>/a, z, a, r, a /</td>
-<audio controls style="width: 110px;" src="audio_examples/control_demo_azara.wav"></audio>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_azara.wav"></audio></td>
 </tr>
 
 <tr>
   <td>Nasals & Lateral</td>
   <td>/a, m, a, n, a, N, a, l, a/</td>
-<audio controls style="width: 110px;" src="audio_examples/control_demo_amanangala.wav"></audio>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_amanangala.wav"></audio></td>
 </tr>
 
 <tr>
   <td>Vowels</td>
   <td>/a, e, i, o, u, a/</td>
-<audio controls style="width: 110px;" src="audio_examples/control_demo_aeioua.wav"></audio>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_aeioua.wav"></audio></td>
 </tr>
 
 </table>
