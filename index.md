@@ -98,21 +98,21 @@
 
 </table>
 
-
+<br>
 <div style="text-align: center;">
 <h2>Controllability of Deep Articulatory Synthesis</h2>
 </div>
 
 Controllability
 
-
+<br>
 <div style="text-align: center;">
 <h2>Articulatory Synthesis</h2>
 </div>
 The following German speech samples were synthesized using VocalTractLab rule-based synthesis and re-synthesized with TensorTract2 (encoding of natural utterances with TensorTract2 and decoding via VocalTractLab). The samples were randomly selected from the Kiel dataset.
 
 <table border="1">
-<tr><td>Speaker</td><td colspan="2"> <b>Kiel Dataset</b> </td></tr>
+<tr><td>Speaker</td><td colspan="3"> <b>Kiel Dataset</b> </td></tr>
 <tr>
   <td></td>
   <td>Ground Truth</td>
@@ -130,6 +130,30 @@ The following German speech samples were synthesized using VocalTractLab rule-ba
   <td><audio controls style="width: 110px;" src="audio_examples/as_gt_b_0_26.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_b_0_26.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_b_0_26.wav"></audio></td>
+</tr>
+
+<tr><td></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_gt_m_0_1.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="aaudio_examples/as_vtl_m_0_1.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_m_0_1.wav"></audio></td>
+</tr>
+
+<tr><td></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_gt_m_0_7.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="aaudio_examples/as_vtl_m_0_7.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_m_0_7.wav"></audio></td>
+</tr>
+
+<tr><td></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_gt_s_2_47.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_s_2_47.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_s_2_47.wav"></audio></td>
+</tr>
+
+<tr><td></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_gt_s_2_63.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_s_2_63.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_s_2_63.wav"></audio></td>
 </tr>
 
 </table>
