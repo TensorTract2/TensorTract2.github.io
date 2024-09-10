@@ -114,26 +114,24 @@
 <table border="1">
 <tr><td>Original</td><td colspan="2"> <b>Manipulated</b> </td></tr>
 <tr>
-  <td></td>
   <td>daddy</td>
   <td>teddy</td>
   <td>nanny</td>
 </tr>
 
-<tr><td>260</td>
+<tr>
   <td><audio controls style="width: 110px;" src="audio_examples/control_demo_daddy.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/control_demo_teddy.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/control_demo_nanny.wav"></audio></td>
 </tr>
 
 <tr>
-  <td></td>
   <td>maybe</td>
   <td>baby</td>
   <td>pay me</td>
 </tr>
 
-<tr><td>260</td>
+<tr>
   <td><audio controls style="width: 110px;" src="audio_examples/control_demo_maybe.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/control_demo_baby.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/control_demo_pay_me.wav"></audio></td>
@@ -141,10 +139,7 @@
 
 </table>
 
-<tr><td>260</td>
-  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_260_54_8.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_260_54_8.wav"></audio></td>
-</tr>
+
 
 <br>
 <div style="text-align: center;">
