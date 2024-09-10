@@ -109,7 +109,7 @@ Controllability
 <div style="text-align: center;">
 <h2>Articulatory Synthesis</h2>
 </div>
-The following German speech samples were encoded using the proposed method and then re-synthesized using the articulatory synthesizer VocalTractLab.
+The following German speech samples were synthesized using VocalTractLab rule-based synthesis and re-synthesized with TensorTract2 (encoding of natural utterances with TensorTract2 and decoding via VocalTractLab). The samples were randomly selected from the Kiel dataset.
 
 <table border="1">
 <tr><td>Speaker</td><td colspan="2"> <b>Kiel Dataset</b> </td></tr>
