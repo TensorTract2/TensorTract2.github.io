@@ -120,11 +120,23 @@
   <td>nanny</td>
 </tr>
 
+<tr><td>260</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_daddy.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_teddy.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_nanny.wav"></audio></td>
+</tr>
+
 <tr>
   <td></td>
   <td>maybe</td>
   <td>baby</td>
   <td>pay me</td>
+</tr>
+
+<tr><td>260</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_maybe.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_baby.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/control_demo_pay_me.wav"></audio></td>
 </tr>
 
 </table>
