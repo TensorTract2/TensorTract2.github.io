@@ -13,7 +13,9 @@
 <h2>Deep Articulatory Synthesis</h2>
 </div>
 
+<div style="text-align: justify;">
 <b>English Speech Synthesis:</b> The following samples were randomly selected from the LibriTTS-R test-clean set and re-synthesized using the proposed method.
+</div>
 
 <table border="1">
 <tr><td>Speaker</td><td colspan="2"> <b>LibriTTS-R</b> </td></tr>
@@ -51,7 +53,9 @@
 </table>
 
 <br>
-<b>Mulitlingual Speech Synthesis:</b> The following samples were randomly selected from theMulitlingual Librispeech (MLS) test sets and re-synthesized using the proposed method.
+<div style="text-align: justify;">
+<b>Mulitlingual Speech Synthesis:</b> The following samples were randomly selected from the Mulitlingual Librispeech (MLS) test sets and re-synthesized using the proposed method.
+</div>
 
 <table border="1">
 <tr><td>Language</td><td colspan="2"> <b>Multilingual Librispeech</b> </td></tr>
@@ -103,18 +107,44 @@
 <h2>Controllability of Deep Articulatory Synthesis</h2>
 </div>
 
+<div style="text-align: justify;">
 <b>Encoding-based speech manipulation:</b> The following samples were encoded using TensorTract2 and manipulated by precisely changing the encoding vectors.
-<br>
-Changing the word "daddy" to "teddy" and to "nanny":
+</div>
+
+<table border="1">
+<tr><td>Original</td><td colspan="2"> <b>Manipulated</b> </td></tr>
+<tr>
+  <td></td>
+  <td>daddy</td>
+  <td>teddy</td>
+  <td>nanny</td>
+</tr>
+
+<tr>
+  <td></td>
+  <td>maybe</td>
+  <td>baby</td>
+  <td>pay me</td>
+</tr>
+
+</table>
+
+<tr><td>260</td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_gt_260_54_8.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/lttsr_rs_260_54_8.wav"></audio></td>
+</tr>
 
 <br>
 <div style="text-align: center;">
 <h2>Articulatory Synthesis</h2>
 </div>
-The following German speech samples were synthesized using VocalTractLab rule-based synthesis and re-synthesized with TensorTract2 (encoding of natural utterances with TensorTract2 and decoding via VocalTractLab). The samples were randomly selected from the Kiel dataset.
+
+<div style="text-align: justify;">
+The following German speech samples were synthesized using VocalTractLab rule-based synthesis and with TensorTract2 (encoding of natural utterances with TensorTract2 and decoding via VocalTractLab). The samples were randomly selected from the Kiel dataset.
+</div>
 
 <table border="1">
-<tr><td>Speaker</td><td colspan="3"> <b>Kiel Dataset</b> </td></tr>
+<tr><td></td><td colspan="3"> <b>Kiel Dataset</b> </td></tr>
 <tr>
   <td></td>
   <td>Ground Truth</td>
