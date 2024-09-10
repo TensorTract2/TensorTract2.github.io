@@ -103,7 +103,9 @@
 <h2>Controllability of Deep Articulatory Synthesis</h2>
 </div>
 
-Controllability
+<b>Encoding-based speech manipulation:</b> The following samples were encoded using TensorTract2 and manipulated by precisely changing the encoding vectors.
+<br>
+Changing the word "daddy" to "teddy" and to "nanny":
 
 <br>
 <div style="text-align: center;">
@@ -134,13 +136,13 @@ The following German speech samples were synthesized using VocalTractLab rule-ba
 
 <tr><td></td>
   <td><audio controls style="width: 110px;" src="audio_examples/as_gt_m_0_1.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="aaudio_examples/as_vtl_m_0_1.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_m_0_1.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_m_0_1.wav"></audio></td>
 </tr>
 
 <tr><td></td>
   <td><audio controls style="width: 110px;" src="audio_examples/as_gt_m_0_7.wav"></audio></td>
-  <td><audio controls style="width: 110px;" src="aaudio_examples/as_vtl_m_0_7.wav"></audio></td>
+  <td><audio controls style="width: 110px;" src="audio_examples/as_vtl_m_0_7.wav"></audio></td>
   <td><audio controls style="width: 110px;" src="audio_examples/as_tt2_m_0_7.wav"></audio></td>
 </tr>
 
