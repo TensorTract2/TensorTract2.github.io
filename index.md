@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 <h2><b>Precisely Controllable Neural Speech Synthesis</b></h2>
-<p> Submitted to </p>
+<p> Submitted to ICASSP-25</p>
 <p> Code and model weights will be published on paper acceptance </p>
 </div>
 
