@@ -4,3 +4,8 @@ plugins:
 
 title: TensorTract2
 show_links: True
+
+paper_url: https://ieeexplore.ieee.org/abstract/document/10890772
+
+github:
+  repository_url: https://github.com/Altavo/tensortract2

@@ -1,7 +1,7 @@
 <div style="text-align: center;">
 <h2><b>Precisely Controllable Neural Speech Synthesis</b></h2>
-<p> Submitted to ICASSP-25</p>
-<p> Code and model weights will be published on paper acceptance </p>
+<p> ICASSP 2025</p>
+<p> Paul Konstantin Krug, Christoph Wagner, Peter Birkholz, Timo Stich </p>
 </div>
 
 
