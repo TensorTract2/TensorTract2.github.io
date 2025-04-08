@@ -6,6 +6,7 @@ title: TensorTract2
 show_links: True
 
 paper_url: https://ieeexplore.ieee.org/abstract/document/10890772
+demo_url: https://tensortractlab.streamlit.app
 
 github:
   is_project_page: True
