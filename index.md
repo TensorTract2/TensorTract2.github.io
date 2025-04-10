@@ -251,7 +251,7 @@ The following speech sample was encoded using TensorTract2 and then visualized a
 Original speech sample:
 </div>
 <div style="text-align: center;">
-<audio src="audio_examples/this_is_a_demo_orig.wav"></audio>
+<audio controls src="audio_examples/this_is_a_demo_orig.wav"></audio>
 </div>
 
 <br>
