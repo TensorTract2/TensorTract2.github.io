@@ -249,19 +249,27 @@ The following speech sample was encoded using TensorTract2 and then visualized a
 <br>
 <div style="text-align: justify;">
 Original speech sample:
+</div>
+<div style="text-align: center;">
 <audio src="audio_examples/this_is_a_demo_orig.wav"></audio>
 </div>
 
 <br>
-<div style="text-align: center;">
+<div style="text-align: justify;">
 Deep Articulatory Synthesis:
+</div>
+<br>
+<div style="text-align: center;">
 <video width="434" height="412" controls>
   <source src="video_examples/this_is_a_demo_tt2.mp4" type="video/mp4">
 </video>
 
 <br>
-<div style="text-align: center;">
+<div style="text-align: justify;">
 Articulatory Synthesis:
+</div>
+<br>
+<div style="text-align: center;">
 <video width="434" height="412" controls>
   <source src="video_examples/this_is_a_demo_vtl.mp4" type="video/mp4">
 </video>
