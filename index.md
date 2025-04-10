@@ -232,3 +232,32 @@ The following German speech samples were synthesized using VocalTractLab rule-ba
 </tr>
 
 </table>
+
+
+<br>
+<div style="text-align: center;">
+<a id="video_examples">
+</a>
+<div style="text-align: center;">
+<h2>Video Examples</h2>
+</div>
+
+The following speech sample was encoded using TensorTract2 and then visualized as a video using the 2D articulatory model of VocalTractLab. The video shows the vocal tract shape and the corresponding speech signal, re-synthesized with TensorTract2 and VocalTractLab, respectively.
+
+Original speech sample (audio only)
+<div style="text-align: center;">
+<audio controls style="width: 110px;" src="audio_examples/this_is_a_demo_orig.wav"></audio>
+</div>
+<br>
+
+Deep Articulatory Synthesis:
+<div style="text-align: center;">
+<video width="434" height="412" controls>
+  <source src="video_examples/this_is_a_demo_tt2.mp4" type="video/mp4">
+</video>
+
+Articulatory Synthesis:
+<div style="text-align: center;">
+<video width="434" height="412" controls>
+  <source src="video_examples/this_is_a_demo_vtl.mp4" type="video/mp4">
+</video>
